@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { CommonModule } from '@angular/common';
+import { DashboardModule } from './pages/dashboard/dashboard.module';
 @NgModule({
   declarations: [
     AppComponent, LoginComponent
